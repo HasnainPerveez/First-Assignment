@@ -2,7 +2,7 @@ const Home = () => {
     return (
         <div>
             <h1>Welcome to Hasnain Creative Solutions</h1>
-            <h3>At Hasnain Creative Solutions, we are passionate about transforming your brand through innovative design and strategic creativity. We offer a full suite of design services tailored to help your business stand out in today’s competitive market. Whether you're launching a new brand or looking to refresh your digital presence, our team of skilled designers is ready to bring your vision to life.</h3>
+            <h3>At Hasnain Creative Solutions, we are passionate about transforming your brand through innovative design and strategic creativity. We offer a full suite of design services tailored to help your business stand out in today’s competitive market. Whether you&apos; or &#39;re launching a new brand or looking to refresh your digital presence, our team of skilled designers is ready to bring your vision to life.</h3>
             <h2>Our Core Services:</h2>
                 <li>Graphic Design: Captivating visuals that communicate your message and enhance your brand’s  identity across all platforms.
                 </li>
